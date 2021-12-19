@@ -7,7 +7,7 @@ excerpt: "About the creator of this Website."
 
 ## Hi, this is Ruofan.
 
-I'm currently a sutdent living in Shanghai, This Blog is mainly for documenting my life and showcasing some of the project I've been working on.
+I'm a Amateur Developer / Game Designer from Shanghai. This Blog is mainly for documenting my life and showcasing some of the project I've been working on.
 
 Interested in Tech, Gaming, Graphic Design, Front End & Game Devlopment.
 
