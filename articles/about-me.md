@@ -9,12 +9,12 @@ excerpt: "About the creator of this Website."
 
 I'm currently a sutdent living in Shanghai, This Blog is mainly for documenting my life and showcasing some of the project I've been working on.
 
-I'm interested in Tech, Gaming, Interactive & Media Design, and Front End & Game Devlopment.
+Interested in Tech, Gaming, Graphic Design, Front End & Game Devlopment.
 
 The articles will mainly be related to these topics, or just some random thoughts I had.
 
-You can also find me on [Github](https://github.com/ImPrankster) and many other platforms, Use Telegram to contact [me](https://t.me/ImPrankster).
+You can also find me on [Github](https://github.com/ImPrankster).
 
-If you want to use this website as a template, there is a Blog website template repo under my github account, feel free to use it.
+If you want to use the blog template created by me, go to [here](https://github.com/ImPrankster/blog-template-next).
 
 Have a nice day!
