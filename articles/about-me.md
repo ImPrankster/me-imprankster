@@ -15,6 +15,6 @@ The articles will mainly be related to these topics, or just some random thought
 
 You can also find me on [Github](https://github.com/ImPrankster).
 
-If you want to use the blog template created by me, go to [here](https://github.com/ImPrankster/blog-template-next).
+If you want to use the blog template created by me, find it [here](https://github.com/ImPrankster/blog-template-next), feel free to use it!
 
 Have a nice day!
