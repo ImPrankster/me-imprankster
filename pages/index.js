@@ -16,7 +16,12 @@ import TabPanel from "../components/TabPanel";
 //get Props
 export async function getStaticProps() {
   // Get files from root/articles
-  const files = fs.readdirSync(path.join("articles"));
+  const dirents = fs.readdirSync(path.join("articles"), {
+    withFileTypes: true,
+  });
+  const files = dirents
+    .filter((dirent) => dirent.isFile())
+    .map((dirent) => dirent.name);
   // Get slugs and front matter from the articles
   const articles = files.map((filename) => {
     // Create slug

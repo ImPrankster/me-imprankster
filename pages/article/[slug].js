@@ -31,7 +31,13 @@ const useStyles = makeStyles((theme) => ({
 //Generate Static Paths
 
 export async function getStaticPaths() {
-  const files = fs.readdirSync(path.join("articles"));
+  //filter only .md file
+  const dirents = fs.readdirSync(path.join("articles"), {
+    withFileTypes: true,
+  });
+  const files = dirents
+    .filter((dirent) => dirent.isFile())
+    .map((dirent) => dirent.name);
 
   const paths = files.map((filename) => ({
     params: {

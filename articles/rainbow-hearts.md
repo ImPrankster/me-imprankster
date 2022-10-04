@@ -2,7 +2,7 @@
 title: "Rainbow Hearts"
 date: "September 19, 2022"
 type: "Projects"
-excerpt: "Tlaks about what is conditinal design and attempt to create a plan to make one."
+excerpt: "Rainbowy colored hearts."
 ---
 
 ### Check out my work [here](https://editor.p5js.org/ImPrankster/full/ctwhPZYf-)
