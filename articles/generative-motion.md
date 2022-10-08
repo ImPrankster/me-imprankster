@@ -11,9 +11,9 @@ Everytime it will have a different background, font color, atom counts & atom mo
 
 Check out the siccck GIFs!
 
-![GIF with multiple small circles circling around a big circle](https://imprankster.vercel.app/images/1439edeb-0074-864d-26ba-74c15fa0b145.gif)
-![GIF with multiple small circles circling around a big circle](https://imprankster.vercel.app/images/afa59d91-91b6-5ba6-20ad-9d34a439b448.gif)
-![GIF with multiple small circles circling around a big circle](https://imprankster.vercel.app/images/d5293a58-6ecc-201d-bb7c-35667934b05f.gif)
+![GIF with multiple small circles circling around a big circle](https://imprankster.vercel.app/images/generative-motion/1439edeb-0074-864d-26ba-74c15fa0b145.gif)
+![GIF with multiple small circles circling around a big circle](https://imprankster.vercel.app/images/generative-motion/afa59d91-91b6-5ba6-20ad-9d34a439b448.gif)
+![GIF with multiple small circles circling around a big circle](https://imprankster.vercel.app/images/generative-motion/d5293a58-6ecc-201d-bb7c-35667934b05f.gif)
 
 ```jsx
 let ang = 0;
