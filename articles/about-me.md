@@ -5,7 +5,7 @@ type: "About"
 excerpt: "About the creator of this Website."
 ---
 
-## Hi, this is Leo Wong _aka ImPrankster_.
+## Hi, this is Leo Wong _aka ImPrankster_
 
 I'm an Amateur Developer / Game Designer from Shanghai. This Blog is mainly for documenting my life and showcasing some of the projects I've been working on.
 
