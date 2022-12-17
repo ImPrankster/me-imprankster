@@ -1,8 +1,8 @@
 ---
-title: "The Game of Life"
-date: "November 10, 2022"
+title: "College"
+date: "December 17, 2022"
 type: "Projects"
-excerpt: "Midterm Project - Game of Life"
+excerpt: "Final Project - College"
 ---
 
 ## Check out my work [here](https://imprankster.github.io/cclab-final/)
